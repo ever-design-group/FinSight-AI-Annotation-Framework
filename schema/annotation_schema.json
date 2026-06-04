@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FinSight AI Annotation Schema v1.0",
+  "description": "Complete annotation schema for 200 financial documents across 8 categories",
+  "version": "1.0",
+  "type": "object",
+  "required": ["document_id", "classification", "entities", "relationships", "quality_metadata"],
+  "properties": {
+    "document_metadata": {
+      "type": "object",
+      "properties": {
+        "document_id": {"type": "string"},
+        "source_file_path": {"type": "string"},
+        "creation_date": {"type": "string", "format": "date-time"},
+        "assigned_annotator": {"type": "string"},
+        "review_status": {"enum": ["pending", "in_review", "approved", "rejected"]}
+      }
+    },
+    "classification": {
+      "type": "object",
+      "required": ["primary_type", "subtype", "quality_tags"],
+      "properties": {
+        "primary_type": {
+          "enum": ["bank_statement", "commercial_invoice", "income_tax_return", "loan_agreement", "insurance_policy", "regulatory_filing", "payment_receipt", "financial_statement"]
+        },
+        "subtype": {"type": "string"},
+        "quality_tags": {
+          "type": "array",
+          "items": {
+            "enum": ["CLEAN_DIGITAL", "OCR_HIGH_QUALITY", "OCR_DEGRADED", "OCR_NOISY", "MULTI_LANGUAGE", "MULTI_CURRENCY", "HANDWRITTEN_ELEMENTS", "REDACTED", "TEMPLATE_MISMATCH", "INCOMPLETE"]
+          }
+        },
+        "confidence_scores": {
+          "type": "object",
+          "properties": {
+            "primary_type": {"type": "number", "minimum": 0, "maximum": 1},
+            "subtype": {"type": "number", "minimum": 0, "maximum": 1}
+          }
+        }
+      }
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["entity_id", "entity_type", "value", "normalized_value", "span"],
+        "properties": {
+          "entity_id": {"type": "string"},
+          "entity_type": {
+            "enum": ["MONETARY_AMOUNT", "DATE", "ACCOUNT_NUMBER", "PARTY_NAME", "REGULATORY_ID", "ADDRESS", "INTEREST_RATE", "DURATION", "PERCENTAGE", "DOCUMENT_ID", "CLAUSE_REFERENCE", "TRANSACTION_TYPE", "INSTITUTION_NAME", "PRODUCT_NAME", "STATUS", "CONTACT_INFO", "SIGNATURE_BLOCK", "TABLE_DATA", "COMPUTATION", "FOOTNOTE_REF", "CURRENCY_CODE", "FISCAL_PERIOD"]
+          },
+          "value": {"type": "string"},
+          "normalized_value": {"type": ["string", "number", "object"]},
+          "source_text": {"type": "string"},
+          "page_number": {"type": "integer"},
+          "span": {
+            "type": "object",
+            "properties": {
+              "start": {"type": "integer"},
+              "end": {"type": "integer"}
+            }
+          },
+          "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+          "linked_entities": {"type": "array", "items": {"type": "string"}},
+          "annotator_notes": {"type": "string"}
+        }
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["relationship_type", "source_entity_id", "target_entity_id"],
+        "properties": {
+          "relationship_type": {
+            "enum": ["HOLDER_OF_ACCOUNT", "PAYER_OF", "PAYEE_OF", "GUARANTOR_FOR", "ISSUED_BY", "COVERS_PERIOD", "COMPUTED_FROM", "REFERENCES_CLAUSE", "DENOMINATED_IN", "SIGNED_BY", "EFFECTIVE_ON", "CONTAINS_TABLE", "FOOTNOTE_FOR", "SUBSIDIARY_OF"]
+          },
+          "source_entity_id": {"type": "string"},
+          "target_entity_id": {"type": "string"}
+        }
+      }
+    },
+    "quality_metadata": {
+      "type": "object",
+      "properties": {
+        "ocr_confidence_per_page": {"type": "array", "items": {"type": "number"}},
+        "annotation_difficulty_rating": {"type": "integer", "minimum": 1, "maximum": 5},
+        "time_to_annotate_seconds": {"type": "number"},
+        "review_comments": {"type": "string"}
+      }
+    },
+    "version_control": {
+      "type": "object",
+      "properties": {
+        "schema_version": {"type": "string"},
+        "guideline_version": {"type": "string"},
+        "annotator_tool_version": {"type": "string"}
+      }
+    }
+  }
+}
