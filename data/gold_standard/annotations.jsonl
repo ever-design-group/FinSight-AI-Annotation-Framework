@@ -1,67 +1,4092 @@
-[{"id":10,"annotations":[{"id":20,"completed_by":10,"result":[],"was_cancelled":false,"ground_truth":false,"created_at":"2026-06-04T11:42:23.973092Z","updated_at":"2026-06-04T11:42:23.973113Z","draft_created_at":null,"lead_time":10.407,"prediction":{},"result_count":0,"unique_id":"243af888-db58-47dc-9712-2621ad16a92f","import_id":null,"last_action":null,"bulk_created":false,"task":10,"project":15,"updated_by":10,"parent_prediction":null,"parent_annotation":null,"last_created_by":null}],"file_upload":"b07b4383-bank_statement_BS001.txt","drafts":[],"predictions":[],"data":{"text":"Document ID: BS001"},"meta":{},"created_at":"2026-06-04T11:36:41.244350Z","updated_at":"2026-06-04T11:42:24.035245Z","allow_skip":true,"inner_id":2,"total_annotations":1,"cancelled_annotations":0,"total_predictions":0,"comment_count":0,"unresolved_comment_count":0,"last_comment_updated_at":null,"project":15,"updated_by":10,"comment_authors":[]},{"id":11,"annotations":[{"id":21,"completed_by":10,"result":[],"was_cancelled":false,"ground_truth":false,"created_at":"2026-06-04T11:43:05.067971Z","updated_at":"2026-06-04T11:43:05.067998Z","draft_created_at":null,"lead_time":38.245,"prediction":{},"result_count":0,"unique_id":"b9d7d8f1-9762-4595-ab02-4b835f32e108","import_id":null,"last_action":null,"bulk_created":false,"task":11,"project":15,"updated_by":10,"parent_prediction":null,"parent_annotation":null,"last_created_by":null}],"file_upload":"b07b4383-bank_statement_BS001.txt","drafts":[],"predictions":[],"data":{"text":"Bank: SBI"},"meta":{},"created_at":"2026-06-04T11:36:41.244407Z","updated_at":"2026-06-04T11:43:05.116156Z","allow_skip":true,"inner_id":3,"total_annotations":1,"cancelled_annotations":0,"total_predictions":0,"comment_count":0,"unresolved_comment_count":0,"last_comment_updated_at":null,"project":15,"updated_by":10,"comment_authors":[]},{"id":12,"annotations":[{"id":22,"completed_by":10,"result":[],"was_cancelled":false,"ground_truth":false,"created_at":"2026-06-04T11:43:55.964726Z","updated_at":"2026-06-04T11:43:55.964756Z","draft_created_at":null,"lead_time":8.383,"prediction":{},"result_count":0,"unique_id":"36b69394-637a-4677-ac79-c7b30553d70b","import_id":null,"last_action":null,"bulk_created":false,"task":12,"project":15,"updated_by":10,"parent_prediction":null,"parent_annotation":null,"last_created_by":null}],"file_upload":"b07b4383-bank_statement_BS001.txt","drafts":[],"predictions":[],"data":{"text":"Account Holder: Customer 568"},"meta":{},"created_at":"2026-06-04T11:36:41.244455Z","updated_at":"2026-06-04T11:43:56.018591Z","allow_skip":true,"inner_id":4,"total_annotations":1,"cancelled_annotations":0,"total_predictions":0,"comment_count":0,"unresolved_comment_count":0,"last_comment_updated_at":null,"project":15,"updated_by":10,"comment_authors":[]},{"id":13,"annotations":[{"id":23,"completed_by":10,"result":[],"was_cancelled":false,"ground_truth":false,"created_at":"2026-06-04T11:44:02.902046Z","updated_at":"2026-06-04T11:44:02.902068Z","draft_created_at":null,"lead_time":3.966,"prediction":{},"result_count":0,"unique_id":"60da3a84-282e-46b1-a540-fbe8ab284870","import_id":null,"last_action":null,"bulk_created":false,"task":13,"project":15,"updated_by":10,"parent_prediction":null,"parent_annotation":null,"last_created_by":null}],"file_upload":"b07b4383-bank_statement_BS001.txt","drafts":[],"predictions":[],"data":{"text":"Account Number: 615549253926"},"meta":{},"created_at":"2026-06-04T11:36:41.244525Z","updated_at":"2026-06-04T11:44:02.952197Z","allow_skip":true,"inner_id":5,"total_annotations":1,"cancelled_annotations":0,"total_predictions":0,"comment_count":0,"unresolved_comment_count":0,"last_comment_updated_at":null,"project":15,"updated_by":10,"comment_authors":[]},{"id":14,"annotations":[{"id":24,"completed_by":10,"result":[],"was_cancelled":false,"ground_truth":false,"created_at":"2026-06-04T11:44:46.147679Z","updated_at":"2026-06-04T11:44:46.147702Z","draft_created_at":null,"lead_time":3.907,"prediction":{},"result_count":0,"unique_id":"926eecf4-4a1c-47b6-9546-a69fe587ad3c","import_id":null,"last_action":null,"bulk_created":false,"task":14,"project":15,"updated_by":10,"parent_prediction":null,"parent_annotation":null,"last_created_by":null}],"file_upload":"b07b4383-bank_statement_BS001.txt","drafts":[],"predictions":[],"data":{"text":"Statement Period: March 2024"},"meta":{},"created_at":"2026-06-04T11:36:41.244581Z","updated_at":"2026-06-04T11:44:46.209045Z","allow_skip":true,"inner_id":6,"total_annotations":1,"cancelled_annotations":0,"total_predictions":0,"comment_count":0,"unresolved_comment_count":0,"last_comment_updated_at":null,"project":15,"updated_by":10,"comment_authors":[]},{"id":16,"annotations":[{"id":25,"completed_by":10,"result":[],"was_cancelled":false,"ground_truth":false,"created_at":"2026-06-04T11:45:23.519606Z","updated_at":"2026-06-04T11:45:23.519627Z","draft_created_at":null,"lead_time":2.293,"prediction":{},"result_count":0,"unique_id":"7e62587f-e85c-4d3b-acd3-69df379f6fa2","import_id":null,"last_action":null,"bulk_created":false,"task":16,"project":15,"updated_by":10,"parent_prediction":null,"parent_annotation":null,"last_created_by":null}],"file_upload":"b07b4383-bank_statement_BS001.txt","drafts":[],"predictions":[],"data":{"text":"Opening Balance: INR 24426"},"meta":{},"created_at":"2026-06-04T11:36:41.244685Z","updated_at":"2026-06-04T11:45:23.573891Z","allow_skip":true,"inner_id":8,"total_annotations":1,"cancelled_annotations":0,"total_predictions":0,"comment_count":0,"unresolved_comment_count":0,"last_comment_updated_at":null,"project":15,"updated_by":10,"comment_authors":[]},{"id":17,"annotations":[{"id":26,"completed_by":10,"result":[],"was_cancelled":false,"ground_truth":false,"created_at":"2026-06-04T11:45:44.510334Z","updated_at":"2026-06-04T11:45:44.510358Z","draft_created_at":null,"lead_time":16.25,"prediction":{},"result_count":0,"unique_id":"52cc6f59-dd5b-4861-8b93-9ba0e2e706c5","import_id":null,"last_action":null,"bulk_created":false,"task":17,"project":15,"updated_by":10,"parent_prediction":null,"parent_annotation":null,"last_created_by":null}],"file_upload":"b07b4383-bank_statement_BS001.txt","drafts":[],"predictions":[],"data":{"text":"Date: 15 Jan 2024"},"meta":{},"created_at":"2026-06-04T11:36:41.244726Z","updated_at":"2026-06-04T11:45:44.561903Z","allow_skip":true,"inner_id":9,"total_annotations":1,"cancelled_annotations":0,"total_predictions":0,"comment_count":0,"unresolved_comment_count":0,"last_comment_updated_at":null,"project":15,"updated_by":10,"comment_authors":[]},{"id":18,"annotations":[{"id":31,"completed_by":10,"result":[],"was_cancelled":false,"ground_truth":false,"created_at":"2026-06-04T12:42:45.034577Z","updated_at":"2026-06-04T12:42:45.034605Z","draft_created_at":null,"lead_time":13.35,"prediction":{},"result_count":0,"unique_id":"57f86d49-234e-41f1-9d94-7417edfe67dd","import_id":null,"last_action":null,"bulk_created":false,"task":18,"project":15,"updated_by":10,"parent_prediction":null,"parent_annotation":null,"last_created_by":null}],"file_upload":"b07b4383-bank_statement_BS001.txt","drafts":[],"predictions":[],"data":{"text":"Transaction: Credit INR 44273"},"meta":{},"created_at":"2026-06-04T11:36:41.244777Z","updated_at":"2026-06-04T12:42:45.106386Z","allow_skip":true,"inner_id":10,"total_annotations":1,"cancelled_annotations":0,"total_predictions":0,"comment_count":0,"unresolved_comment_count":0,"last_comment_updated_at":null,"project":15,"updated_by":10,"comment_authors":[]},{"id":19,"annotations":[{"id":27,"completed_by":10,"result":[],"was_cancelled":false,"ground_truth":false,"created_at":"2026-06-04T11:48:02.404381Z","updated_at":"2026-06-04T11:48:02.404411Z","draft_created_at":null,"lead_time":2.919,"prediction":{},"result_count":0,"unique_id":"57d6ceab-288c-467c-aea6-e777f027fdeb","import_id":null,"last_action":null,"bulk_created":false,"task":19,"project":15,"updated_by":10,"parent_prediction":null,"parent_annotation":null,"last_created_by":null}],"file_upload":"b07b4383-bank_statement_BS001.txt","drafts":[],"predictions":[],"data":{"text":"Date: 20 Jan 2024"},"meta":{},"created_at":"2026-06-04T11:36:41.244858Z","updated_at":"2026-06-04T11:48:02.453100Z","allow_skip":true,"inner_id":11,"total_annotations":1,"cancelled_annotations":0,"total_predictions":0,"comment_count":0,"unresolved_comment_count":0,"last_comment_updated_at":null,"project":15,"updated_by":10,"comment_authors":[]},{"id":20,"annotations":[{"id":28,"completed_by":10,"result":[],"was_cancelled":false,"ground_truth":false,"created_at":"2026-06-04T12:37:42.680618Z","updated_at":"2026-06-04T12:37:42.680641Z","draft_created_at":null,"lead_time":4.179,"prediction":{},"result_count":0,"unique_id":"297bd42e-b149-4fc4-951a-bc3d675e505a","import_id":null,"last_action":null,"bulk_created":false,"task":20,"project":15,"updated_by":10,"parent_prediction":null,"parent_annotation":null,"last_created_by":null}],"file_upload":"b07b4383-bank_statement_BS001.txt","drafts":[],"predictions":[],"data":{"text":"Transaction: Debit INR 5661"},"meta":{},"created_at":"2026-06-04T11:36:41.244922Z","updated_at":"2026-06-04T12:37:42.732686Z","allow_skip":true,"inner_id":12,"total_annotations":1,"cancelled_annotations":0,"total_predictions":0,"comment_count":0,"unresolved_comment_count":0,"last_comment_updated_at":null,"project":15,"updated_by":10,"comment_authors":[]},{"id":21,"annotations":[{"id":29,"completed_by":10,"result":[],"was_cancelled":false,"ground_truth":false,"created_at":"2026-06-04T12:39:02.368650Z","updated_at":"2026-06-04T12:39:02.368680Z","draft_created_at":null,"lead_time":6.701,"prediction":{},"result_count":0,"unique_id":"e0d617d0-5cf5-4cf2-b42a-19164f994c1c","import_id":null,"last_action":null,"bulk_created":false,"task":21,"project":15,"updated_by":10,"parent_prediction":null,"parent_annotation":null,"last_created_by":null}],"file_upload":"b07b4383-bank_statement_BS001.txt","drafts":[],"predictions":[],"data":{"text":"Closing Balance: INR 63038"},"meta":{},"created_at":"2026-06-04T11:36:41.244998Z","updated_at":"2026-06-04T12:39:02.423173Z","allow_skip":true,"inner_id":13,"total_annotations":1,"cancelled_annotations":0,"total_predictions":0,"comment_count":0,"unresolved_comment_count":0,"last_comment_updated_at":null,"project":15,"updated_by":10,"comment_authors":[]},{"id":23,"annotations":[{"id":30,"completed_by":10,"result":[],"was_cancelled":false,"ground_truth":false,"created_at":"2026-06-04T12:41:11.070725Z","updated_at":"2026-06-04T12:41:11.070745Z","draft_created_at":null,"lead_time":4.051,"prediction":{},"result_count":0,"unique_id":"102fab73-d053-4597-a665-675cbff268de","import_id":null,"last_action":null,"bulk_created":false,"task":23,"project":15,"updated_by":10,"parent_prediction":null,"parent_annotation":null,"last_created_by":null}],"file_upload":"b07b4383-bank_statement_BS001.txt","drafts":[],"predictions":[],"data":{"text":"Status: Active as of 31 March 2024"},"meta":{},"created_at":"2026-06-04T11:36:41.245154Z","updated_at":"2026-06-04T12:41:11.119424Z","allow_skip":true,"inner_id":15,"total_annotations":1,"cancelled_annotations":0,"total_predictions":0,"comment_count":0,"unresolved_comment_count":0,"last_comment_updated_at":null,"project":15,"updated_by":10,"comment_authors":[]}]
-{"id":25,"data":{"text":"Document ID: BS002"},"annotations":[{"result":[{"value":{"start":0,"end":4,"text":"BS002","labels":["DOCUMENT_ID"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"BS002"}]}
-
-{"id":26,"data":{"text":"Bank: SBI"},"annotations":[{"result":[{"value":{"start":0,"end":3,"text":"SBI","labels":["INSTITUTION_NAME"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"SBI"}]}
-
-{"id":27,"data":{"text":"Account Holder: Customer 130"},"annotations":[{"result":[{"value":{"start":0,"end":13,"text":"Customer 130","labels":["PARTY_NAME"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"Customer 130"}]}
-
-{"id":28,"data":{"text":"Account Number: 665987109467"},"annotations":[{"result":[{"value":{"start":0,"end":12,"text":"665987109467","labels":["ACCOUNT_NUMBER"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"****9467"}]}
-
-{"id":29,"data":{"text":"Statement Period: January 2024"},"annotations":[{"result":[{"value":{"start":0,"end":12,"text":"January 2024","labels":["DATE"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"2024-01-01"}]}
-
-{"id":31,"data":{"text":"Opening Balance: INR 35897"},"annotations":[{"result":[{"value":{"start":0,"end":9,"text":"INR 35897","labels":["MONETARY_AMOUNT"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"{\"amount\":35897,\"currency\":\"INR\"}"}]}
-
-{"id":32,"data":{"text":"Date: 15 Mar 2024"},"annotations":[{"result":[{"value":{"start":0,"end":11,"text":"15 Mar 2024","labels":["DATE"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"2024-03-15"}]}
-
-{"id":33,"data":{"text":"Transaction: Credit INR 22964"},"annotations":[
-  {"result":[{"value":{"start":0,"end":6,"text":"Credit","labels":["TRANSACTION_TYPE"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"CREDIT"},
-  {"result":[{"value":{"start":7,"end":16,"text":"INR 22964","labels":["MONETARY_AMOUNT"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"{\"amount\":22964,\"currency\":\"INR\"}"}
-]}
-
-{"id":34,"data":{"text":"Date: 20 Jan 2024"},"annotations":[{"result":[{"value":{"start":0,"end":11,"text":"20 Jan 2024","labels":["DATE"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"2024-01-20"}]}
-
-{"id":35,"data":{"text":"Transaction: Debit INR 5333"},"annotations":[
-  {"result":[{"value":{"start":0,"end":5,"text":"Debit","labels":["TRANSACTION_TYPE"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"DEBIT"},
-  {"result":[{"value":{"start":6,"end":14,"text":"INR 5333","labels":["MONETARY_AMOUNT"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"{\"amount\":5333,\"currency\":\"INR\"}"}
-]}
-
-{"id":36,"data":{"text":"Closing Balance: INR 53528"},"annotations":[{"result":[{"value":{"start":0,"end":12,"text":"INR 53528","labels":["MONETARY_AMOUNT"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"{\"amount\":53528,\"currency\":\"INR\"}"}]}
-
-{"id":38,"data":{"text":"Status: Active as of 31 March 2024"},"annotations":[
-  {"result":[{"value":{"start":0,"end":6,"text":"Active","labels":["STATUS"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"ACTIVE"},
-  {"result":[{"value":{"start":10,"end":26,"text":"31 March 2024","labels":["DATE"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"2024-03-31"}
-]}
-
-
-
-
-{"id":41,"data":{"text":"Bank: ICICI Bank"},"annotations":[{"result":[{"value":{"start":0,"end":10,"text":"ICICI Bank","labels":["INSTITUTION_NAME"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"ICICI Bank"}]}
-
-{"id":42,"data":{"text":"Account Holder: Customer 825"},"annotations":[{"result":[{"value":{"start":0,"end":12,"text":"Customer 825","labels":["PARTY_NAME"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"Customer 825"}]}
-
-{"id":43,"data":{"text":"Account Number: 301381888747"},"annotations":[{"result":[{"value":{"start":0,"end":12,"text":"301381888747","labels":["ACCOUNT_NUMBER"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"****8747"}]}
-
-{"id":44,"data":{"text":"Statement Period: March 2024"},"annotations":[{"result":[{"value":{"start":0,"end":10,"text":"March 2024","labels":["DATE"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"2024-03-01"}]}
-
-{"id":46,"data":{"text":"Opening Balance: INR 56654"},"annotations":[{"result":[{"value":{"start":0,"end":9,"text":"INR 56654","labels":["MONETARY_AMOUNT"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"{\"amount\":56654,\"currency\":\"INR\"}"}]}
-
-{"id":47,"data":{"text":"Date: 15 Jan 2024"},"annotations":[{"result":[{"value":{"start":0,"end":11,"text":"15 Jan 2024","labels":["DATE"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"2024-01-15"}]}
-
-{"id":48,"data":{"text":"Transaction: Credit INR 36610"},"annotations":[
-  {"result":[{"value":{"start":0,"end":6,"text":"Credit","labels":["TRANSACTION_TYPE"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"CREDIT"},
-  {"result":[{"value":{"start":7,"end":16,"text":"INR 36610","labels":["MONETARY_AMOUNT"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"{\"amount\":36610,\"currency\":\"INR\"}"}
-]}
-
-{"id":49,"data":{"text":"Date: 20 Jan 2024"},"annotations":[{"result":[{"value":{"start":0,"end":11,"text":"20 Jan 2024","labels":["DATE"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"2024-01-20"}]}
-
-{"id":50,"data":{"text":"Transaction: Debit INR 2234"},"annotations":[
-  {"result":[{"value":{"start":0,"end":5,"text":"Debit","labels":["TRANSACTION_TYPE"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"DEBIT"},
-  {"result":[{"value":{"start":6,"end":14,"text":"INR 2234","labels":["MONETARY_AMOUNT"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"{\"amount\":2234,\"currency\":\"INR\"}"}
-]}
-
-{"id":51,"data":{"text":"Closing Balance: INR 91030"},"annotations":[{"result":[{"value":{"start":0,"end":12,"text":"INR 91030","labels":["MONETARY_AMOUNT"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"{\"amount\":91030,\"currency\":\"INR\"}"}]}
-
-{"id":53,"data":{"text":"Status: Active as of 31 March 2024"},"annotations":[
-  {"result":[{"value":{"start":0,"end":6,"text":"Active","labels":["STATUS"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"ACTIVE"},
-  {"result":[{"value":{"start":10,"end":26,"text":"31 March 2024","labels":["DATE"]},"from_name":"entity","to_name":"text","type":"labels"}],"normalized_value":"2024-03-31"}
-]}
+[
+  {
+    "id": 20000,
+    "annotations": [
+      {
+        "id": 20000,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 18,
+              "text": "BS001",
+              "labels": [
+                "DOCUMENT_ID"
+              ]
+            },
+            "id": "docid_20000",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T10:20:36.736937Z",
+        "updated_at": "2026-06-08T10:21:27.736937Z",
+        "draft_created_at": null,
+        "lead_time": 53,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20000_20000",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20000,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS001.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Document ID: BS001"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T10:20:36.736937Z",
+    "updated_at": "2026-06-08T10:21:27.736937Z",
+    "allow_skip": true,
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20001,
+    "annotations": [
+      {
+        "id": 20001,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 9,
+              "text": "PNB",
+              "labels": [
+                "INSTITUTION_NAME"
+              ]
+            },
+            "id": "inst_20001",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T19:30:20.862397Z",
+        "updated_at": "2026-06-08T19:30:28.862397Z",
+        "draft_created_at": null,
+        "lead_time": 31,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20001_20001",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20001,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS001.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Bank: PNB"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T19:30:20.862397Z",
+    "updated_at": "2026-06-08T19:30:28.862397Z",
+    "allow_skip": true,
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20002,
+    "annotations": [
+      {
+        "id": 20002,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 16,
+              "end": 28,
+              "text": "Customer 210",
+              "labels": [
+                "PARTY_NAME"
+              ]
+            },
+            "id": "party_20002",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T12:05:48.456243Z",
+        "updated_at": "2026-06-08T12:05:49.456243Z",
+        "draft_created_at": null,
+        "lead_time": 8,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20002_20002",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20002,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS001.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Account Holder: Customer 210"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T12:05:48.456243Z",
+    "updated_at": "2026-06-08T12:05:49.456243Z",
+    "allow_skip": true,
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20003,
+    "annotations": [
+      {
+        "id": 20003,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 16,
+              "end": 30,
+              "text": "19286560645452",
+              "labels": [
+                "ACCOUNT_NUMBER"
+              ]
+            },
+            "id": "acc_20003",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T14:04:18.159127Z",
+        "updated_at": "2026-06-08T14:04:57.159127Z",
+        "draft_created_at": null,
+        "lead_time": 15,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20003_20003",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20003,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS001.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Account Number: 19286560645452"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T14:04:18.159127Z",
+    "updated_at": "2026-06-08T14:04:57.159127Z",
+    "allow_skip": true,
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20004,
+    "annotations": [
+      {
+        "id": 20004,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 18,
+              "end": 28,
+              "text": "April 2024",
+              "labels": [
+                "FISCAL_PERIOD"
+              ]
+            },
+            "id": "fiscal_20004",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T13:04:59.629905Z",
+        "updated_at": "2026-06-08T13:05:06.629905Z",
+        "draft_created_at": null,
+        "lead_time": 16,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20004_20004",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20004,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS001.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Statement Period: April 2024"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T13:04:59.629905Z",
+    "updated_at": "2026-06-08T13:05:06.629905Z",
+    "allow_skip": true,
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20005,
+    "annotations": [
+      {
+        "id": 20005,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 20,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc1_20005",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 21,
+              "end": 26,
+              "text": "13258",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma1_20005",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T20:48:05.249465Z",
+        "updated_at": "2026-06-08T20:48:42.249465Z",
+        "draft_created_at": null,
+        "lead_time": 13,
+        "prediction": {},
+        "result_count": 2,
+        "unique_id": "manual_20005_20005",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20005,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS001.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Opening Balance: INR 13258"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T20:48:05.249465Z",
+    "updated_at": "2026-06-08T20:48:42.249465Z",
+    "allow_skip": true,
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20006,
+    "annotations": [
+      {
+        "id": 20006,
+        "completed_by": 10,
+        "result": [],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T16:57:59.511602Z",
+        "updated_at": "2026-06-08T16:58:34.511602Z",
+        "draft_created_at": null,
+        "lead_time": 5,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "manual_20006_20006",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20006,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS001.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Date: 22 Apr 2024"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T16:57:59.511602Z",
+    "updated_at": "2026-06-08T16:58:34.511602Z",
+    "allow_skip": true,
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20007,
+    "annotations": [
+      {
+        "id": 20007,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 19,
+              "text": "Credit",
+              "labels": [
+                "TRANSACTION_TYPE"
+              ]
+            },
+            "id": "tt1_20007",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 20,
+              "end": 23,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc2_20007",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 24,
+              "end": 29,
+              "text": "11640",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma2_20007",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T09:11:56.094025Z",
+        "updated_at": "2026-06-08T09:12:29.094025Z",
+        "draft_created_at": null,
+        "lead_time": 8,
+        "prediction": {},
+        "result_count": 3,
+        "unique_id": "manual_20007_20007",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20007,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS001.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Transaction: Credit INR 11640"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T09:11:56.094025Z",
+    "updated_at": "2026-06-08T09:12:29.094025Z",
+    "allow_skip": true,
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20008,
+    "annotations": [
+      {
+        "id": 20008,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 16,
+              "text": "5 Apr 2024",
+              "labels": [
+                "DATE"
+              ]
+            },
+            "id": "date2_20008",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T13:42:01.590480Z",
+        "updated_at": "2026-06-08T13:42:36.590480Z",
+        "draft_created_at": null,
+        "lead_time": 5,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20008_20008",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20008,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS001.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Date: 5 Apr 2024"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T13:42:01.590480Z",
+    "updated_at": "2026-06-08T13:42:36.590480Z",
+    "allow_skip": true,
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20009,
+    "annotations": [
+      {
+        "id": 20009,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 18,
+              "text": "Debit",
+              "labels": [
+                "TRANSACTION_TYPE"
+              ]
+            },
+            "id": "tt3_20009",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T16:37:40.830141Z",
+        "updated_at": "2026-06-08T16:38:07.830141Z",
+        "draft_created_at": null,
+        "lead_time": 59,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20009_20009",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20009,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS001.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Transaction: Debit INR 7199"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T16:37:40.830141Z",
+    "updated_at": "2026-06-08T16:38:07.830141Z",
+    "allow_skip": true,
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20010,
+    "annotations": [
+      {
+        "id": 20010,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 20,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc4_20010",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 21,
+              "end": 26,
+              "text": "17699",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma4_20010",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T13:52:32.223560Z",
+        "updated_at": "2026-06-08T13:52:59.223560Z",
+        "draft_created_at": null,
+        "lead_time": 44,
+        "prediction": {},
+        "result_count": 2,
+        "unique_id": "manual_20010_20010",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20010,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS001.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Closing Balance: INR 17699"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T13:52:32.223560Z",
+    "updated_at": "2026-06-08T13:52:59.223560Z",
+    "allow_skip": true,
+    "inner_id": 11,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20011,
+    "annotations": [
+      {
+        "id": 20011,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 8,
+              "end": 34,
+              "text": "Active as of 31 March 2024",
+              "labels": [
+                "STATUS"
+              ]
+            },
+            "id": "status_20011",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T09:07:53.210640Z",
+        "updated_at": "2026-06-08T09:08:31.210640Z",
+        "draft_created_at": null,
+        "lead_time": 39,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20011_20011",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20011,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS001.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Status: Active as of 31 March 2024"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T09:07:53.210640Z",
+    "updated_at": "2026-06-08T09:08:31.210640Z",
+    "allow_skip": true,
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20012,
+    "annotations": [
+      {
+        "id": 20012,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 18,
+              "text": "BS002",
+              "labels": [
+                "DOCUMENT_ID"
+              ]
+            },
+            "id": "docid_20012",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T16:54:21.444909Z",
+        "updated_at": "2026-06-08T16:55:21.444909Z",
+        "draft_created_at": null,
+        "lead_time": 23,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20012_20012",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20012,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS002.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Document ID: BS002"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T16:54:21.444909Z",
+    "updated_at": "2026-06-08T16:55:21.444909Z",
+    "allow_skip": true,
+    "inner_id": 101,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20013,
+    "annotations": [
+      {
+        "id": 20013,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 17,
+              "text": "Canara Bank",
+              "labels": [
+                "INSTITUTION_NAME"
+              ]
+            },
+            "id": "inst_20013",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T20:32:47.498925Z",
+        "updated_at": "2026-06-08T20:33:35.498925Z",
+        "draft_created_at": null,
+        "lead_time": 13,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20013_20013",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20013,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS002.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Bank: Canara Bank"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T20:32:47.498925Z",
+    "updated_at": "2026-06-08T20:33:35.498925Z",
+    "allow_skip": true,
+    "inner_id": 102,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20014,
+    "annotations": [
+      {
+        "id": 20014,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 16,
+              "end": 28,
+              "text": "Customer 195",
+              "labels": [
+                "PARTY_NAME"
+              ]
+            },
+            "id": "party_20014",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T18:30:08.879844Z",
+        "updated_at": "2026-06-08T18:30:15.879844Z",
+        "draft_created_at": null,
+        "lead_time": 60,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20014_20014",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20014,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS002.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Account Holder: Customer 195"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T18:30:08.879844Z",
+    "updated_at": "2026-06-08T18:30:15.879844Z",
+    "allow_skip": true,
+    "inner_id": 103,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20015,
+    "annotations": [
+      {
+        "id": 20015,
+        "completed_by": 10,
+        "result": [],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T19:20:45.753127Z",
+        "updated_at": "2026-06-08T19:21:18.753127Z",
+        "draft_created_at": null,
+        "lead_time": 6,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "manual_20015_20015",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20015,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS002.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Account Number: 271584781423"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T19:20:45.753127Z",
+    "updated_at": "2026-06-08T19:21:18.753127Z",
+    "allow_skip": true,
+    "inner_id": 104,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20016,
+    "annotations": [
+      {
+        "id": 20016,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 18,
+              "end": 32,
+              "text": "September 2025",
+              "labels": [
+                "FISCAL_PERIOD"
+              ]
+            },
+            "id": "fiscal_20016",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T18:34:46.420931Z",
+        "updated_at": "2026-06-08T18:35:42.420931Z",
+        "draft_created_at": null,
+        "lead_time": 32,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20016_20016",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20016,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS002.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Statement Period: September 2025"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T18:34:46.420931Z",
+    "updated_at": "2026-06-08T18:35:42.420931Z",
+    "allow_skip": true,
+    "inner_id": 105,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20017,
+    "annotations": [
+      {
+        "id": 20017,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 20,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc1_20017",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T11:45:36.047655Z",
+        "updated_at": "2026-06-08T11:46:04.047655Z",
+        "draft_created_at": null,
+        "lead_time": 31,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20017_20017",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20017,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS002.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Opening Balance: INR 11138"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T11:45:36.047655Z",
+    "updated_at": "2026-06-08T11:46:04.047655Z",
+    "allow_skip": true,
+    "inner_id": 106,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20018,
+    "annotations": [
+      {
+        "id": 20018,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 17,
+              "text": "23 Sep 2025",
+              "labels": [
+                "DATE"
+              ]
+            },
+            "id": "date1_20018",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T17:17:36.709517Z",
+        "updated_at": "2026-06-08T17:18:21.709517Z",
+        "draft_created_at": null,
+        "lead_time": 10,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20018_20018",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20018,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS002.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Date: 23 Sep 2025"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T17:17:36.709517Z",
+    "updated_at": "2026-06-08T17:18:21.709517Z",
+    "allow_skip": true,
+    "inner_id": 107,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20019,
+    "annotations": [
+      {
+        "id": 20019,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 19,
+              "text": "Credit",
+              "labels": [
+                "TRANSACTION_TYPE"
+              ]
+            },
+            "id": "tt1_20019",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 20,
+              "end": 23,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc2_20019",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 24,
+              "end": 29,
+              "text": "30103",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma2_20019",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T12:50:26.838822Z",
+        "updated_at": "2026-06-08T12:51:19.838822Z",
+        "draft_created_at": null,
+        "lead_time": 14,
+        "prediction": {},
+        "result_count": 3,
+        "unique_id": "manual_20019_20019",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20019,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS002.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Transaction: Credit INR 30103"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T12:50:26.838822Z",
+    "updated_at": "2026-06-08T12:51:19.838822Z",
+    "allow_skip": true,
+    "inner_id": 108,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20020,
+    "annotations": [
+      {
+        "id": 20020,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 17,
+              "text": "21 Sep 2025",
+              "labels": [
+                "DATE"
+              ]
+            },
+            "id": "date2_20020",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T13:48:59.054335Z",
+        "updated_at": "2026-06-08T13:49:10.054335Z",
+        "draft_created_at": null,
+        "lead_time": 21,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20020_20020",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20020,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS002.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Date: 21 Sep 2025"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T13:48:59.054335Z",
+    "updated_at": "2026-06-08T13:49:10.054335Z",
+    "allow_skip": true,
+    "inner_id": 109,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20021,
+    "annotations": [
+      {
+        "id": 20021,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 18,
+              "text": "Debit",
+              "labels": [
+                "TRANSACTION_TYPE"
+              ]
+            },
+            "id": "tt3_20021",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 19,
+              "end": 22,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc3_20021",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 23,
+              "end": 28,
+              "text": "34657",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma3_20021",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T18:14:19.752514Z",
+        "updated_at": "2026-06-08T18:14:56.752514Z",
+        "draft_created_at": null,
+        "lead_time": 23,
+        "prediction": {},
+        "result_count": 3,
+        "unique_id": "manual_20021_20021",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20021,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS002.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Transaction: Debit INR 34657"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T18:14:19.752514Z",
+    "updated_at": "2026-06-08T18:14:56.752514Z",
+    "allow_skip": true,
+    "inner_id": 110,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20022,
+    "annotations": [
+      {
+        "id": 20022,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 20,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc4_20022",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T10:54:11.462292Z",
+        "updated_at": "2026-06-08T10:54:43.462292Z",
+        "draft_created_at": null,
+        "lead_time": 41,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20022_20022",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20022,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS002.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Closing Balance: INR 6584"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T10:54:11.462292Z",
+    "updated_at": "2026-06-08T10:54:43.462292Z",
+    "allow_skip": true,
+    "inner_id": 111,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20023,
+    "annotations": [
+      {
+        "id": 20023,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 8,
+              "end": 34,
+              "text": "Active as of 31 March 2024",
+              "labels": [
+                "STATUS"
+              ]
+            },
+            "id": "status_20023",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T11:57:24.564777Z",
+        "updated_at": "2026-06-08T11:57:31.564777Z",
+        "draft_created_at": null,
+        "lead_time": 29,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20023_20023",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20023,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS002.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Status: Active as of 31 March 2024"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T11:57:24.564777Z",
+    "updated_at": "2026-06-08T11:57:31.564777Z",
+    "allow_skip": true,
+    "inner_id": 112,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20024,
+    "annotations": [
+      {
+        "id": 20024,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 18,
+              "text": "BS003",
+              "labels": [
+                "DOCUMENT_ID"
+              ]
+            },
+            "id": "docid_20024",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T14:30:24.677623Z",
+        "updated_at": "2026-06-08T14:31:07.677623Z",
+        "draft_created_at": null,
+        "lead_time": 27,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20024_20024",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20024,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS003.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Document ID: BS003"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T14:30:24.677623Z",
+    "updated_at": "2026-06-08T14:31:07.677623Z",
+    "allow_skip": true,
+    "inner_id": 201,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20025,
+    "annotations": [
+      {
+        "id": 20025,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 20,
+              "text": "Bank of Baroda",
+              "labels": [
+                "INSTITUTION_NAME"
+              ]
+            },
+            "id": "inst_20025",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T13:26:27.945362Z",
+        "updated_at": "2026-06-08T13:27:05.945362Z",
+        "draft_created_at": null,
+        "lead_time": 5,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20025_20025",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20025,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS003.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Bank: Bank of Baroda"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T13:26:27.945362Z",
+    "updated_at": "2026-06-08T13:27:05.945362Z",
+    "allow_skip": true,
+    "inner_id": 202,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20026,
+    "annotations": [
+      {
+        "id": 20026,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 16,
+              "end": 28,
+              "text": "Customer 393",
+              "labels": [
+                "PARTY_NAME"
+              ]
+            },
+            "id": "party_20026",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T20:22:43.506569Z",
+        "updated_at": "2026-06-08T20:22:47.506569Z",
+        "draft_created_at": null,
+        "lead_time": 12,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20026_20026",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20026,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS003.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Account Holder: Customer 393"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T20:22:43.506569Z",
+    "updated_at": "2026-06-08T20:22:47.506569Z",
+    "allow_skip": true,
+    "inner_id": 203,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20027,
+    "annotations": [
+      {
+        "id": 20027,
+        "completed_by": 10,
+        "result": [],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T12:24:13.758610Z",
+        "updated_at": "2026-06-08T12:24:44.758610Z",
+        "draft_created_at": null,
+        "lead_time": 14,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "manual_20027_20027",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20027,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS003.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Account Number: 89830594100572"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T12:24:13.758610Z",
+    "updated_at": "2026-06-08T12:24:44.758610Z",
+    "allow_skip": true,
+    "inner_id": 204,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20028,
+    "annotations": [
+      {
+        "id": 20028,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 18,
+              "end": 27,
+              "text": "June 2024",
+              "labels": [
+                "FISCAL_PERIOD"
+              ]
+            },
+            "id": "fiscal_20028",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T15:34:55.482159Z",
+        "updated_at": "2026-06-08T15:34:58.482159Z",
+        "draft_created_at": null,
+        "lead_time": 24,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20028_20028",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20028,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS003.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Statement Period: June 2024"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T15:34:55.482159Z",
+    "updated_at": "2026-06-08T15:34:58.482159Z",
+    "allow_skip": true,
+    "inner_id": 205,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20029,
+    "annotations": [
+      {
+        "id": 20029,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 20,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc1_20029",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 21,
+              "end": 26,
+              "text": "42806",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma1_20029",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T20:43:32.217779Z",
+        "updated_at": "2026-06-08T20:44:05.217779Z",
+        "draft_created_at": null,
+        "lead_time": 47,
+        "prediction": {},
+        "result_count": 2,
+        "unique_id": "manual_20029_20029",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20029,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS003.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Opening Balance: INR 42806"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T20:43:32.217779Z",
+    "updated_at": "2026-06-08T20:44:05.217779Z",
+    "allow_skip": true,
+    "inner_id": 206,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20030,
+    "annotations": [
+      {
+        "id": 20030,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 17,
+              "text": "11 Jun 2024",
+              "labels": [
+                "DATE"
+              ]
+            },
+            "id": "date1_20030",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T16:49:20.598723Z",
+        "updated_at": "2026-06-08T16:49:38.598723Z",
+        "draft_created_at": null,
+        "lead_time": 51,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20030_20030",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20030,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS003.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Date: 11 Jun 2024"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T16:49:20.598723Z",
+    "updated_at": "2026-06-08T16:49:38.598723Z",
+    "allow_skip": true,
+    "inner_id": 207,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20031,
+    "annotations": [
+      {
+        "id": 20031,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 18,
+              "text": "Debit",
+              "labels": [
+                "TRANSACTION_TYPE"
+              ]
+            },
+            "id": "tt1_20031",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 19,
+              "end": 22,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc2_20031",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 23,
+              "end": 28,
+              "text": "26299",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma2_20031",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T13:30:37.420959Z",
+        "updated_at": "2026-06-08T13:31:27.420959Z",
+        "draft_created_at": null,
+        "lead_time": 42,
+        "prediction": {},
+        "result_count": 3,
+        "unique_id": "manual_20031_20031",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20031,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS003.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Transaction: Debit INR 26299"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T13:30:37.420959Z",
+    "updated_at": "2026-06-08T13:31:27.420959Z",
+    "allow_skip": true,
+    "inner_id": 208,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20032,
+    "annotations": [
+      {
+        "id": 20032,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 17,
+              "text": "25 Jun 2024",
+              "labels": [
+                "DATE"
+              ]
+            },
+            "id": "date2_20032",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T14:57:02.201521Z",
+        "updated_at": "2026-06-08T14:57:08.201521Z",
+        "draft_created_at": null,
+        "lead_time": 25,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20032_20032",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20032,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS003.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Date: 25 Jun 2024"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T14:57:02.201521Z",
+    "updated_at": "2026-06-08T14:57:08.201521Z",
+    "allow_skip": true,
+    "inner_id": 209,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20033,
+    "annotations": [
+      {
+        "id": 20033,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 19,
+              "text": "Credit",
+              "labels": [
+                "TRANSACTION_TYPE"
+              ]
+            },
+            "id": "tt3_20033",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T17:47:05.717928Z",
+        "updated_at": "2026-06-08T17:47:35.717928Z",
+        "draft_created_at": null,
+        "lead_time": 26,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20033_20033",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20033,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS003.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Transaction: Credit INR 2787"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T17:47:05.717928Z",
+    "updated_at": "2026-06-08T17:47:35.717928Z",
+    "allow_skip": true,
+    "inner_id": 210,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20034,
+    "annotations": [
+      {
+        "id": 20034,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 20,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc4_20034",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 21,
+              "end": 26,
+              "text": "19294",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma4_20034",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T16:47:26.437151Z",
+        "updated_at": "2026-06-08T16:48:01.437151Z",
+        "draft_created_at": null,
+        "lead_time": 19,
+        "prediction": {},
+        "result_count": 2,
+        "unique_id": "manual_20034_20034",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20034,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS003.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Closing Balance: INR 19294"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T16:47:26.437151Z",
+    "updated_at": "2026-06-08T16:48:01.437151Z",
+    "allow_skip": true,
+    "inner_id": 211,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20035,
+    "annotations": [
+      {
+        "id": 20035,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 8,
+              "end": 34,
+              "text": "Active as of 31 March 2024",
+              "labels": [
+                "STATUS"
+              ]
+            },
+            "id": "status_20035",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T11:10:51.683950Z",
+        "updated_at": "2026-06-08T11:11:35.683950Z",
+        "draft_created_at": null,
+        "lead_time": 35,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20035_20035",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20035,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS003.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Status: Active as of 31 March 2024"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T11:10:51.683950Z",
+    "updated_at": "2026-06-08T11:11:35.683950Z",
+    "allow_skip": true,
+    "inner_id": 212,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20036,
+    "annotations": [
+      {
+        "id": 20036,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 18,
+              "text": "BS004",
+              "labels": [
+                "DOCUMENT_ID"
+              ]
+            },
+            "id": "docid_20036",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T11:11:40.124203Z",
+        "updated_at": "2026-06-08T11:11:56.124203Z",
+        "draft_created_at": null,
+        "lead_time": 17,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20036_20036",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20036,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS004.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Document ID: BS004"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T11:11:40.124203Z",
+    "updated_at": "2026-06-08T11:11:56.124203Z",
+    "allow_skip": true,
+    "inner_id": 301,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20037,
+    "annotations": [
+      {
+        "id": 20037,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 14,
+              "text": "Yes Bank",
+              "labels": [
+                "INSTITUTION_NAME"
+              ]
+            },
+            "id": "inst_20037",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T12:38:31.107450Z",
+        "updated_at": "2026-06-08T12:38:55.107450Z",
+        "draft_created_at": null,
+        "lead_time": 19,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20037_20037",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20037,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS004.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Bank: Yes Bank"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T12:38:31.107450Z",
+    "updated_at": "2026-06-08T12:38:55.107450Z",
+    "allow_skip": true,
+    "inner_id": 302,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20038,
+    "annotations": [
+      {
+        "id": 20038,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 16,
+              "end": 28,
+              "text": "Customer 572",
+              "labels": [
+                "PARTY_NAME"
+              ]
+            },
+            "id": "party_20038",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T15:15:51.021255Z",
+        "updated_at": "2026-06-08T15:15:55.021255Z",
+        "draft_created_at": null,
+        "lead_time": 42,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20038_20038",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20038,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS004.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Account Holder: Customer 572"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T15:15:51.021255Z",
+    "updated_at": "2026-06-08T15:15:55.021255Z",
+    "allow_skip": true,
+    "inner_id": 303,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20039,
+    "annotations": [
+      {
+        "id": 20039,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 16,
+              "end": 31,
+              "text": "939777622040144",
+              "labels": [
+                "ACCOUNT_NUMBER"
+              ]
+            },
+            "id": "acc_20039",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T15:19:20.622301Z",
+        "updated_at": "2026-06-08T15:19:27.622301Z",
+        "draft_created_at": null,
+        "lead_time": 46,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20039_20039",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20039,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS004.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Account Number: 939777622040144"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T15:19:20.622301Z",
+    "updated_at": "2026-06-08T15:19:27.622301Z",
+    "allow_skip": true,
+    "inner_id": 304,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20040,
+    "annotations": [
+      {
+        "id": 20040,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 18,
+              "end": 31,
+              "text": "February 2025",
+              "labels": [
+                "FISCAL_PERIOD"
+              ]
+            },
+            "id": "fiscal_20040",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T19:11:46.357653Z",
+        "updated_at": "2026-06-08T19:12:25.357653Z",
+        "draft_created_at": null,
+        "lead_time": 12,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20040_20040",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20040,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS004.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Statement Period: February 2025"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T19:11:46.357653Z",
+    "updated_at": "2026-06-08T19:12:25.357653Z",
+    "allow_skip": true,
+    "inner_id": 305,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20041,
+    "annotations": [
+      {
+        "id": 20041,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 20,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc1_20041",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 21,
+              "end": 26,
+              "text": "28843",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma1_20041",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T14:05:08.658285Z",
+        "updated_at": "2026-06-08T14:05:58.658285Z",
+        "draft_created_at": null,
+        "lead_time": 45,
+        "prediction": {},
+        "result_count": 2,
+        "unique_id": "manual_20041_20041",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20041,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS004.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Opening Balance: INR 28843"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T14:05:08.658285Z",
+    "updated_at": "2026-06-08T14:05:58.658285Z",
+    "allow_skip": true,
+    "inner_id": 306,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20042,
+    "annotations": [
+      {
+        "id": 20042,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 17,
+              "text": "15 Feb 2025",
+              "labels": [
+                "DATE"
+              ]
+            },
+            "id": "date1_20042",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T19:46:41.718542Z",
+        "updated_at": "2026-06-08T19:47:01.718542Z",
+        "draft_created_at": null,
+        "lead_time": 21,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20042_20042",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20042,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS004.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Date: 15 Feb 2025"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T19:46:41.718542Z",
+    "updated_at": "2026-06-08T19:47:01.718542Z",
+    "allow_skip": true,
+    "inner_id": 307,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20043,
+    "annotations": [
+      {
+        "id": 20043,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 18,
+              "text": "Debit",
+              "labels": [
+                "TRANSACTION_TYPE"
+              ]
+            },
+            "id": "tt1_20043",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 19,
+              "end": 22,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc2_20043",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 23,
+              "end": 28,
+              "text": "26129",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma2_20043",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T17:15:02.960947Z",
+        "updated_at": "2026-06-08T17:15:04.960947Z",
+        "draft_created_at": null,
+        "lead_time": 3,
+        "prediction": {},
+        "result_count": 3,
+        "unique_id": "manual_20043_20043",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20043,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS004.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Transaction: Debit INR 26129"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T17:15:02.960947Z",
+    "updated_at": "2026-06-08T17:15:04.960947Z",
+    "allow_skip": true,
+    "inner_id": 308,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20044,
+    "annotations": [
+      {
+        "id": 20044,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 16,
+              "text": "3 Feb 2025",
+              "labels": [
+                "DATE"
+              ]
+            },
+            "id": "date2_20044",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T12:21:50.035012Z",
+        "updated_at": "2026-06-08T12:22:36.035012Z",
+        "draft_created_at": null,
+        "lead_time": 60,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20044_20044",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20044,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS004.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Date: 3 Feb 2025"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T12:21:50.035012Z",
+    "updated_at": "2026-06-08T12:22:36.035012Z",
+    "allow_skip": true,
+    "inner_id": 309,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20045,
+    "annotations": [
+      {
+        "id": 20045,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 19,
+              "text": "Credit",
+              "labels": [
+                "TRANSACTION_TYPE"
+              ]
+            },
+            "id": "tt3_20045",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 20,
+              "end": 23,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc3_20045",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 24,
+              "end": 29,
+              "text": "25419",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma3_20045",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T11:43:35.411197Z",
+        "updated_at": "2026-06-08T11:44:14.411197Z",
+        "draft_created_at": null,
+        "lead_time": 45,
+        "prediction": {},
+        "result_count": 3,
+        "unique_id": "manual_20045_20045",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20045,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS004.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Transaction: Credit INR 25419"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T11:43:35.411197Z",
+    "updated_at": "2026-06-08T11:44:14.411197Z",
+    "allow_skip": true,
+    "inner_id": 310,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20046,
+    "annotations": [
+      {
+        "id": 20046,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 20,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc4_20046",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 21,
+              "end": 26,
+              "text": "28133",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma4_20046",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T19:19:49.771302Z",
+        "updated_at": "2026-06-08T19:20:13.771302Z",
+        "draft_created_at": null,
+        "lead_time": 11,
+        "prediction": {},
+        "result_count": 2,
+        "unique_id": "manual_20046_20046",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20046,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS004.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Closing Balance: INR 28133"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T19:19:49.771302Z",
+    "updated_at": "2026-06-08T19:20:13.771302Z",
+    "allow_skip": true,
+    "inner_id": 311,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20047,
+    "annotations": [
+      {
+        "id": 20047,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 8,
+              "end": 34,
+              "text": "Active as of 31 March 2024",
+              "labels": [
+                "STATUS"
+              ]
+            },
+            "id": "status_20047",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T18:06:22.807097Z",
+        "updated_at": "2026-06-08T18:06:52.807097Z",
+        "draft_created_at": null,
+        "lead_time": 58,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20047_20047",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20047,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS004.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Status: Active as of 31 March 2024"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T18:06:22.807097Z",
+    "updated_at": "2026-06-08T18:06:52.807097Z",
+    "allow_skip": true,
+    "inner_id": 312,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20048,
+    "annotations": [
+      {
+        "id": 20048,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 18,
+              "text": "BS005",
+              "labels": [
+                "DOCUMENT_ID"
+              ]
+            },
+            "id": "docid_20048",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T14:27:27.357793Z",
+        "updated_at": "2026-06-08T14:28:11.357793Z",
+        "draft_created_at": null,
+        "lead_time": 15,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20048_20048",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20048,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS005.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Document ID: BS005"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T14:27:27.357793Z",
+    "updated_at": "2026-06-08T14:28:11.357793Z",
+    "allow_skip": true,
+    "inner_id": 401,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20049,
+    "annotations": [
+      {
+        "id": 20049,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 17,
+              "text": "Canara Bank",
+              "labels": [
+                "INSTITUTION_NAME"
+              ]
+            },
+            "id": "inst_20049",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T16:40:10.454185Z",
+        "updated_at": "2026-06-08T16:41:09.454185Z",
+        "draft_created_at": null,
+        "lead_time": 35,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20049_20049",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20049,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS005.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Bank: Canara Bank"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T16:40:10.454185Z",
+    "updated_at": "2026-06-08T16:41:09.454185Z",
+    "allow_skip": true,
+    "inner_id": 402,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20050,
+    "annotations": [
+      {
+        "id": 20050,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 16,
+              "end": 28,
+              "text": "Customer 879",
+              "labels": [
+                "PARTY_NAME"
+              ]
+            },
+            "id": "party_20050",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T20:28:47.522635Z",
+        "updated_at": "2026-06-08T20:29:16.522635Z",
+        "draft_created_at": null,
+        "lead_time": 12,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20050_20050",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20050,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS005.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Account Holder: Customer 879"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T20:28:47.522635Z",
+    "updated_at": "2026-06-08T20:29:16.522635Z",
+    "allow_skip": true,
+    "inner_id": 403,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20051,
+    "annotations": [
+      {
+        "id": 20051,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 16,
+              "end": 31,
+              "text": "029516345398821",
+              "labels": [
+                "ACCOUNT_NUMBER"
+              ]
+            },
+            "id": "acc_20051",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T14:46:05.047893Z",
+        "updated_at": "2026-06-08T14:46:26.047893Z",
+        "draft_created_at": null,
+        "lead_time": 45,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20051_20051",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20051,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS005.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Account Number: 029516345398821"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T14:46:05.047893Z",
+    "updated_at": "2026-06-08T14:46:26.047893Z",
+    "allow_skip": true,
+    "inner_id": 404,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20052,
+    "annotations": [
+      {
+        "id": 20052,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 18,
+              "end": 28,
+              "text": "April 2025",
+              "labels": [
+                "FISCAL_PERIOD"
+              ]
+            },
+            "id": "fiscal_20052",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T10:51:22.992468Z",
+        "updated_at": "2026-06-08T10:52:11.992468Z",
+        "draft_created_at": null,
+        "lead_time": 10,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20052_20052",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20052,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS005.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Statement Period: April 2025"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T10:51:22.992468Z",
+    "updated_at": "2026-06-08T10:52:11.992468Z",
+    "allow_skip": true,
+    "inner_id": 405,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20053,
+    "annotations": [
+      {
+        "id": 20053,
+        "completed_by": 10,
+        "result": [],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T18:10:24.155641Z",
+        "updated_at": "2026-06-08T18:10:49.155641Z",
+        "draft_created_at": null,
+        "lead_time": 5,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "manual_20053_20053",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20053,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS005.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Opening Balance: INR 78167"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T18:10:24.155641Z",
+    "updated_at": "2026-06-08T18:10:49.155641Z",
+    "allow_skip": true,
+    "inner_id": 406,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20054,
+    "annotations": [
+      {
+        "id": 20054,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 16,
+              "text": "3 Apr 2025",
+              "labels": [
+                "DATE"
+              ]
+            },
+            "id": "date1_20054",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T20:31:39.701964Z",
+        "updated_at": "2026-06-08T20:32:24.701964Z",
+        "draft_created_at": null,
+        "lead_time": 27,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20054_20054",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20054,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS005.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Date: 3 Apr 2025"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T20:31:39.701964Z",
+    "updated_at": "2026-06-08T20:32:24.701964Z",
+    "allow_skip": true,
+    "inner_id": 407,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20055,
+    "annotations": [
+      {
+        "id": 20055,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 19,
+              "text": "Credit",
+              "labels": [
+                "TRANSACTION_TYPE"
+              ]
+            },
+            "id": "tt1_20055",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 20,
+              "end": 23,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc2_20055",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 24,
+              "end": 29,
+              "text": "41893",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma2_20055",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T19:14:51.741040Z",
+        "updated_at": "2026-06-08T19:15:42.741040Z",
+        "draft_created_at": null,
+        "lead_time": 44,
+        "prediction": {},
+        "result_count": 3,
+        "unique_id": "manual_20055_20055",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20055,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS005.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Transaction: Credit INR 41893"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T19:14:51.741040Z",
+    "updated_at": "2026-06-08T19:15:42.741040Z",
+    "allow_skip": true,
+    "inner_id": 408,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20056,
+    "annotations": [
+      {
+        "id": 20056,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 6,
+              "end": 16,
+              "text": "6 Apr 2025",
+              "labels": [
+                "DATE"
+              ]
+            },
+            "id": "date2_20056",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T18:33:01.626487Z",
+        "updated_at": "2026-06-08T18:33:05.626487Z",
+        "draft_created_at": null,
+        "lead_time": 8,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "manual_20056_20056",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20056,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS005.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Date: 6 Apr 2025"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T18:33:01.626487Z",
+    "updated_at": "2026-06-08T18:33:05.626487Z",
+    "allow_skip": true,
+    "inner_id": 409,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20057,
+    "annotations": [
+      {
+        "id": 20057,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 13,
+              "end": 18,
+              "text": "Debit",
+              "labels": [
+                "TRANSACTION_TYPE"
+              ]
+            },
+            "id": "tt3_20057",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 19,
+              "end": 22,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc3_20057",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T14:02:10.154415Z",
+        "updated_at": "2026-06-08T14:02:29.154415Z",
+        "draft_created_at": null,
+        "lead_time": 26,
+        "prediction": {},
+        "result_count": 2,
+        "unique_id": "manual_20057_20057",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20057,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS005.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Transaction: Debit INR 39450"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T14:02:10.154415Z",
+    "updated_at": "2026-06-08T14:02:29.154415Z",
+    "allow_skip": true,
+    "inner_id": 410,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20058,
+    "annotations": [
+      {
+        "id": 20058,
+        "completed_by": 10,
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 20,
+              "text": "INR",
+              "labels": [
+                "CURRENCY_CODE"
+              ]
+            },
+            "id": "cc4_20058",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 21,
+              "end": 26,
+              "text": "80610",
+              "labels": [
+                "MONETARY_AMOUNT"
+              ]
+            },
+            "id": "ma4_20058",
+            "from_name": "entity",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T15:28:09.599006Z",
+        "updated_at": "2026-06-08T15:29:02.599006Z",
+        "draft_created_at": null,
+        "lead_time": 49,
+        "prediction": {},
+        "result_count": 2,
+        "unique_id": "manual_20058_20058",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20058,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS005.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Closing Balance: INR 80610"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T15:28:09.599006Z",
+    "updated_at": "2026-06-08T15:29:02.599006Z",
+    "allow_skip": true,
+    "inner_id": 411,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 20059,
+    "annotations": [
+      {
+        "id": 20059,
+        "completed_by": 10,
+        "result": [],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2026-06-08T12:03:09.942164Z",
+        "updated_at": "2026-06-08T12:03:49.942164Z",
+        "draft_created_at": null,
+        "lead_time": 6,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "manual_20059_20059",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 20059,
+        "project": 15,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bank_statement_BS005.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "Status: Active as of 31 March 2024"
+    },
+    "meta": {},
+    "created_at": "2026-06-08T12:03:09.942164Z",
+    "updated_at": "2026-06-08T12:03:49.942164Z",
+    "allow_skip": true,
+    "inner_id": 412,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 15,
+    "updated_by": 10,
+    "comment_authors": []
+  }
+]
